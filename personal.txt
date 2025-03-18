@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-Name : Suvigya Srivastava
-Add :  GR Noida 
-Contact : 6386586624
-=======
 Name : Naman
 Add : GZB
 Contact : 9999999999
->>>>>>> 5e4f7b62418a9985f3008db83754ee0ece2f5f5b
+new branch
